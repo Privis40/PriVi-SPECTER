@@ -1,7 +1,7 @@
 # 🛡️ PriViPass Elite Forensic Auditor v3.3
 **Developed by: PriViSecurity**
 
-An advanced, terminal-based credential audit suite designed for cybersecurity practitioners. PriViPass combines mathematical entropy analysis with real-time breach intelligence (HIBP) to provide a forensic-grade security report.
+An advanced, terminal-based password credential audit suite designed for cybersecurity practitioners. PriViPass combines mathematical entropy analysis with real-time breach intelligence (HIBP) to provide a forensic-grade security report.
 
 ## ⚡ Key Features
 - **Heuristic Decryption UI:** Matrix-style live data stream analysis.
