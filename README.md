@@ -1,6 +1,3 @@
-# 🛡️ PriVi-SPECTER: Forensic Credential Analysis Suite
-**Version 4.5 — Forensic Intelligence Edition** **Developed by: PriViSecurity**
-
 <div align="center">
 
 # 🛡️ PriVi-SPECTER: Forensic Credential Analysis Suite
