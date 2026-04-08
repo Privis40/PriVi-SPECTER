@@ -1,6 +1,8 @@
 # 🛡️ PriVi-SPECTER: Forensic Credential Analysis Suite
 **Version 4.5 — Forensic Intelligence Edition** **Developed by: PriViSecurity**
 
+![PriVi-SPECTER Dashboard](PriVi-Specter.PNG)
+
 **PriVi-SPECTER** is a professional-grade terminal suite designed for high-fidelity credential auditing. It bridges the gap between basic complexity checks and advanced forensic analysis by integrating **Shannon Information Theory**, **K-Anonymity breach intelligence**, and **Heuristic Pattern Recognition**.
 
 Built for cybersecurity researchers and bug bounty hunters, PriVi-SPECTER provides a definitive, brand-certified audit report that quantifies the true "attack surface" of a password.
